@@ -10,7 +10,7 @@ Apresento-lhes o Pokédex feito com HTML, CSS e JavaScript, cujo o objetivo é c
 
 <h1>Mostra de funcionalidades</h1>
 <h2>Busca por nome</h2>
-https://user-images.githubusercontent.com/87085378/180672116-4ac9b687-413d-4ed9-bf70-19821531f77b.mp4
+[![Watch the video](https://user-images.githubusercontent.com/87085378/180672116-4ac9b687-413d-4ed9-bf70-19821531f77b.mp4)]
 
 <h2>Busca por número</h2>
 <p></p>
