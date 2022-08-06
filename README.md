@@ -9,7 +9,6 @@ Apresento-lhes o Pokédex feito com HTML, CSS e JavaScript, cujo o objetivo é c
 
 <h1>Mostra de funcionalidades</h1>
 <h2>Busca por nome</h2>
-<<<<<<< HEAD
 <video><source src="./video/gravacaofuncname.mp4" type="video/mp4">
 </video>
 
@@ -24,3 +23,5 @@ Apresento-lhes o Pokédex feito com HTML, CSS e JavaScript, cujo o objetivo é c
 
 <h2>Responsividade</h2>
 <p></p>
+
+<p>creditos ao canal Manual do dev</p>
