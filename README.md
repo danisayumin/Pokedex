@@ -1,18 +1,19 @@
 # Pokedex
  criação de uma pokedex com HTML, CSS e JS
  
-<h2>Primeiras impressões</h2>
+# Primeiras impressões
 Apresento-lhes o Pokédex feito com HTML, CSS e JavaScript, cujo o objetivo é consultar pokemons atraves dos nomes e numeros deles
 <p></p>
 <img width="1440" alt="Captura de Tela 2022-07-24 às 20 54 22" src="https://user-images.githubusercontent.com/87085378/180671102-1d043926-2533-456b-a800-b14f0877ac94.png">
 
 
-<h1>Mostra de funcionalidades</h1>
-<h2>Busca por nome</h2>
-![names.gif](https://github.com/danisayumin/Pokedex/blob/main/names.gif)
+# Mostra de funcionalidades
+## Busca por nome
+![names](https://github.com/danisayumin/Pokedex/blob/main/names.gif)
 
-<h2>Busca por número</h2>
+## Busca por número
 <p></p>
+![numbers](https://user-images.githubusercontent.com/87085378/183313279-b2758ce0-fea8-4b78-8032-60f9d3866fed.gif)
 
 <h2>Botões</h2>
 <p></p>
